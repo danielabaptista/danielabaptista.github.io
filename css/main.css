@@ -2424,6 +2424,11 @@ body {
   .nav-align-center .nav-pills {
     display: inline-flex; }
 
+.btn-linkedin {
+  color: #55acee; }
+  .btn-linkedin:hover, .btn-twitter:focus, .btn-twitter:active {
+    color: #3ea1ec; }
+    
 .btn-twitter {
   color: #55acee; }
   .btn-twitter:hover, .btn-twitter:focus, .btn-twitter:active {
