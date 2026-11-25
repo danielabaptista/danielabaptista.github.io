@@ -8,7 +8,7 @@ export const de: Content = {
   },
   title: 'Systems Engineer,\nM.Sc. Student, Internet of Things and Smart Systems',
   tagline:
-      'Ich entwickle Software, die IoT-Geräte sicher in die Cloud bringt und ihre Daten verständlich macht.',
+      'Engineering across systems, languages and cultures.',
   about: [
     'Schön, dass Sie hier sind! Auf dieser Website erfahren Sie mehr über mich und meinen Weg. Ich habe in Venezuela meinen Abschluss als Systemingenieurin mit Schwerpunkt Regelungs- und Automatisierungstechnik gemacht und schließe jetzt meinen Master in Internet of Things and Smart Systems in Deutschland ab.',
     'Schauen Sie sich an, was ich bisher gemacht habe, von beruflichen Projekten bis zu ehrenamtlichem Engagement. Und wenn Sie etwas interessiert, freue ich mich auf Ihre Nachricht.',
