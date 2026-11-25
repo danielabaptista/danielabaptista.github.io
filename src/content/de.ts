@@ -4,7 +4,7 @@ import type { Content } from './types'
 export const de: Content = {
   meta: {
     pageTitle: 'María Theuerkauf',
-    description: 'Portfolio von María Daniela Baptista, IoT-Softwareentwicklerin in Zwickau.',
+    description: 'Portfolio von María Daniela Baptista, Systems Engineer, IoT and Smart Systems in Germany',
   },
   title: 'Systems Engineer,\nM.Sc. Student, Internet of Things and Smart Systems',
   tagline:
