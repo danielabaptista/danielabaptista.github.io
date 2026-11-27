@@ -79,14 +79,14 @@ export const en: Content = {
   ],
   volunteering: [
     {
-      dates: '11/2024 – 05/2025',
-      title: 'City coordinator, Pint of Science Zwickau 2025',
-      text: 'Brought the international science festival to Zwickau for the first time in May 2025, from building the organizing team to finding venues and speakers, to bring science to the local community. Led the volunteer team and ran the monthly planning meetings.',
-    },
-    {
       dates: 'since 03/2025',
       title: 'Language exchange group, WHZ',
       text: 'Organize a language exchange where native German speakers learning Spanish or Portuguese practice with native Spanish and Portuguese speakers learning German, and the other way around. Meetings twice a month.',
+    },
+    {
+      dates: '11/2024 – 05/2025',
+      title: 'City coordinator, Pint of Science Zwickau 2025',
+      text: 'Brought the international science festival to Zwickau for the first time in May 2025, from building the organizing team to finding venues and speakers, to bring science to the local community. Led the volunteer team and ran the monthly planning meetings.',
     },
     {
       dates: '11/2024 – 02/2025',

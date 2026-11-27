@@ -80,14 +80,14 @@ export const de: Content = {
   ],
   volunteering: [
     {
-      dates: '11/2024 – 05/2025',
-      title: 'Stadtkoordinatorin, Pint of Science Zwickau 2025',
-      text: 'Das internationale Wissenschaftsfestival im Mai 2025 erstmals nach Zwickau geholt – vom Aufbau des Organisationsteams bis zur Suche nach Veranstaltungsorten und Vortragenden –, um Wissenschaft in die Stadtgesellschaft zu bringen. Leitung des ehrenamtlichen Teams und der monatlichen Planungstreffen.',
-    },
-    {
       dates: 'seit 03/2025',
       title: 'Sprachaustauschgruppe, WHZ',
       text: 'Organisation eines Sprachaustauschs, bei dem deutsche Muttersprachler, die Spanisch oder Portugiesisch lernen, mit spanisch- und portugiesischsprachigen Deutschlernenden üben – und umgekehrt. Treffen zweimal im Monat.',
+    },
+    {
+      dates: '11/2024 – 05/2025',
+      title: 'Stadtkoordinatorin, Pint of Science Zwickau 2025',
+      text: 'Das internationale Wissenschaftsfestival im Mai 2025 erstmals nach Zwickau geholt – vom Aufbau des Organisationsteams bis zur Suche nach Veranstaltungsorten und Vortragenden –, um Wissenschaft in die Stadtgesellschaft zu bringen. Leitung des ehrenamtlichen Teams und der monatlichen Planungstreffen.',
     },
     {
       dates: '11/2024 – 02/2025',
